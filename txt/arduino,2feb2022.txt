@@ -1,0 +1,74 @@
+El asunto con el taller de arduino es que debe ser a un nivel introductorio medio, esto es así porque es el nivel general en el que me encuentro 
+y porque el tema es amplio, si se quiere abordar así. 
+
+Mi objetivo con este ejercicio es acabar con una suerte de primer borrador de temario. Esta es la idea. 
+
+Arduino
+    Historia   
+        Arduino
+        El movimiento maker
+        Processing y Arduino
+        Arduino y latinoamerica
+        Wiring
+        Importancia historica de arduino
+
+    Arduino. Una placa facil de usar.
+        Software
+        IDE
+        Placa
+        LEnguaje de programación
+
+Sensores
+    diferentes clasificaciones
+        digital /analogico
+        pasivo/activo
+    Conectar un sensor
+Actuadores
+    Qué se puede hacer con un actuador?
+    Potencia y arduino
+    Relays
+
+    
+Anatomía de un sketch de arduino
+    estructura general de un sketch
+    tipos de datos
+    estructuras de control
+    condicionales
+    librerias de arduino
+
+
+
+
+No estoy pensando en hacer una maqueta pero si, generar unos 10 proyectos pequeños o ver cómo hacer para transferir conocimiento en forma. 
+
+
+Ok, y qué se puede hacer con un arduino?
+Con un arduino se pueden generar interactividad. Esto es, podemos interactuar con una computadora de una forma diferente que con el método usual de teclado y mouse. 
+
+Interacción humano/ maquina, mediado por la tecnología. 
+
+Puedo intentar responder a una serie de preguntas, para explorar el campo. 
+
+Arduino es una plataforma de desarrollo. Despues de dejar en claro la importancia que tiene el proyecto arduino en la cultura maker. 
+
+Hablar sobre la tarjeta desde el punto de vista de el lenguaje binario. 
+
+Quizas hayan oido hablar de esta placa de microcontrolador, si no es así, se las presento. A su nuevo mejor amigo. Un microcontrolador es una pequeña pieza de ceramica que tiene en su interior todo lo que se necesita para llamar a algo una computadora. 
+En su interior se encuentra, por ejemplo. Un procesador, con redes de transistores, una unidad de memoria, con registros especiales para guardar la información de el firmware que le programamos y registros para procesar información. Adicionalmente tenemos puertos, para comunicación con el exterior. Pines, en un chip, para interactuar con el exterior
+
+Hay que hablar de la electricidad y las cosas básicas que uno debe de saber. 
+Un arduino se puede quemar si no tomamos en cuenta medidas elementales de
+protección.
+
+Hay que hablar sobre lo fácil que es obtener datos con sensores. 
+Esto me obliga a hablar brevemente sobre tipos de sensores.
+
+Un sensor es un componente que nos permite obtener información del ambiente para
+comunicarla con el controlador de una manera que la pueda entender. 
+
+Principalmente, en relación con arduino es necesario hacer la distinción de
+sensores digitales y analógicos. 
+
+Esto es básico porque el arduino es un sistema digital, 
+
+
